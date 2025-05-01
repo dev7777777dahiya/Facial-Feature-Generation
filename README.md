@@ -61,6 +61,6 @@ You can create a realistic base face using text prompts, then **fine-tune featur
 - Streamlit community for UI inspiration
 
 ---
-| Generate Base Image | Edit Features Smile | Edit Features Hair | Edit Features Gender
+| Generate Base Image | Edit Features |
 
-| ![Base Image](Assets/image.webp) | ![Edited Image](Assets/image(1).webp) | ![Edited Image](Assets/image(2).webp) | ![Edited Image](Assets/image(3).webp) 
+![Base Image](Assets/image.webp) ![Edited Image](Assets/image(1).webp) ![Edited Image](Assets/image(2).webp) ![Edited Image](Assets/image(3).webp) 
