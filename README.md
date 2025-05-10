@@ -55,12 +55,6 @@ You can create a realistic base face using text prompts, then **fine-tune featur
 - Feel free to use, modify, and share!
 
 ---
-## 🌟 Acknowledgements
-- Hugging Face for Diffusers
-- Stability AI for Stable Diffusion 2.0 models
-- Streamlit community for UI inspiration
-
----
 | Generate Base Image | Edit Features |
 
 ![Base Image](Assets/image.webp) ![Edited Image](Assets/image(1).webp) ![Edited Image](Assets/image(2).webp) ![Edited Image](Assets/image(3).webp) 
